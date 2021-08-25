@@ -1,0 +1,53 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Oracle OpenJDK 15.0.1" />
+        <option name="installDir" value="D:\jdk" />
+        <option name="javaHomeDir" value="D:\jdk" />
+        <option name="sha256" value="0a27c733fc7ceaaae3856a9c03f5e2304af30a32de6b454b8762ec02447c5464" />
+        <option name="url" value="https://download.java.net/java/GA/jdk15.0.1/51f4f36ad4ef43e39d0dfdbaf6549e32/9/GPL/openjdk-15.0.1_windows-x64_bin.zip" />
+        <option name="versionText" value="15.0.1" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1mvdbJZnoJUWrCXQuC2jQvMuEir">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="java&#10;jav&#10;ja&#10;j" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="appcds.runOnSecondStart" value="IC-203.6682.168-6ff025e002fd83a25b437fda0086aa5d2490da890ad54a613f3927c5a2f05e1c" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Программы/Java_and_Kotlin/Java/android_mshop.java&#10;D:/Программы/Java_and_Kotlin/Java/scratch.java&#10;D:/Программы/Java_and_Kotlin&#10;D:/jdk" />
+    <property name="file.gist.reindex.count" value="1" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.6682.168" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.21-release-IJ6682.9" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
+    <property name="kotlin.plugin.releaseDate" value="203-1.4.21-release-IJ6682.9:2021-01-04" />
+    <property name="lastSeenTip" value="neue-HorizontalScrolling.html" />
+    <property name="lastTimeTipsWereShown" value="1610378076578" />
+    <property name="last_opened_file_path" value="D:/Программы/Java_and_Kotlin" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1610378068380" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+    <property name="seenTips" value="neue-HideWidgets.html,neue-MoveUpDown.html,neue-InsertLiveTemplate.html,neue-FocusProjectToolWindow.html,neue-Close_all_editor_tabs.html,neue-DirDiff.html,neue-QuickSwitchScheme.html,Kotlin_mix.html,neue-HorizontalScrolling.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/main.css">
+    <title>Confetti</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="svg hide" id="svg">
+            <h1>Title</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, sapiente architecto tempore porro odio laudantium!</p>
+
+            <button>Press to start</button>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.7.13/lottie.min.js" integrity="sha512-srGxQe2w7s50+5/nNgEVKYtBm15zRylJwdjxYnGEZr3mmHFJKFjA/ImA2OKizVzoIDX8XISMHDI1+az9pnumbQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <script>
+        const play = document.querySelector('button');
+        const svgCont = document.getElementById('svg');
+        const animItem = bodymovin.loadAnimation({
+            wrapper: svgCont,
+            animType: 'svg',
+            loop: false,
+            autoplay: false,
+            path: 'https://assets10.lottiefiles.com/private_files/lf30_Y45aue.json'
+        });
+
+        play.addEventListener('click', () => {
+            animItem.play();
+        });
+    </script>
+
+</body>
+</html>

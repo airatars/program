@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tasks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IdeaIC2020.3/tasks/First.contexts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/IdeaIC2020.3/tasks/First.tasks.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

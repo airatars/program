@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+  
+body {
+    font-family: "Poppins", sans-serif;
+    background: url(bck.jpg);
+    background-size: cover;
+    color: #295e17;
+}
+
+.header {
+    /* yes */
+}
+
+.logo {
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.nav{
+    
+    overflow-x: hidden;
+    text-align: right;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: #17856d;  
+}

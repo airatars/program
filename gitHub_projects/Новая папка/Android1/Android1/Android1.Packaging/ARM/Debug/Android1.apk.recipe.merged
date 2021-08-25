@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths>D:\GitHub_Projects\Новая папка\Android1\ARM\Debug\libAndroid1.so;D:\Microsoft\AndroidNDK64\android-ndk-r16b\prebuilt\android-arm\gdbserver\gdbserver;D:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\armeabi-v7a\libandroid_support.a;D:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\armeabi-v7a\libc++_static.a;D:\Microsoft\AndroidNDK64\android-ndk-r16b\sources\cxx-stl\llvm-libc++\libs\armeabi-v7a\libc++abi.a</SOLibPaths>
+  <AndroidLibPaths></AndroidLibPaths>
+  <OObjPaths>D:\GitHub_Projects\Новая папка\Android1\Android1\Android1.NativeActivity\ARM\Debug</OObjPaths>
+  <Configuration>Debug</Configuration>
+  <Platform>ARM</Platform>
+  <AndroidArchitecture>armeabi-v7a</AndroidArchitecture>
+</project>

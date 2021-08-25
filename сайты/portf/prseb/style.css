@@ -1,0 +1,86 @@
+body {
+    color: white;
+    background-color: #202731;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    overflow-x: hidden;
+}
+
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+
+.red {
+    background-color: #DB1F48;
+}
+.blue {
+    background-color: #004369;
+}
+.teal {
+    background-color: #01949A;
+}
+.dollar {
+    background-color: #beb294;
+}
+.dark {
+    background-color: #000;
+}
+
+.curve {
+    position: absolute;
+    height: 225px;
+    width: 100%;
+    bottom: 0;
+}
+
+.curve::before {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    background-color: #004369;
+    transform: translate(85%, 60%);
+}
+
+.curve::after {
+    content: '';
+    display: block;
+    position: absolute;
+    border-radius: 100% 50%;
+    width: 55%;
+    height: 100%;
+    background-color: #DB1F48;
+    transform: translate(-4%, 40%);
+    z-index: 1;
+}
+
+.bubble::after {
+    content: '';
+    border-top-left-radius: 50% 100%;
+    border-top-right-radius: 50% 100%;
+    position: absolute;
+    bottom: 0;
+    height: 85%;
+    width: 100%;
+    background-color: #000;
+    z-index: -1;
+}
+
+.spacer {
+    aspect-ratio: 960/300;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.layer1{
+    background-image: url('./layered-waves-haikei.svg');
+}

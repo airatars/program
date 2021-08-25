@@ -1,0 +1,8 @@
+﻿  ANDROID_HOME=D:\\Microsoft\AndroidSDK\25
+  ANT_HOME=D:\Microsoft Visual Studio\Comunity\Apps\apache-ant-1.9.3
+  JAVA_HOME=C:\Program Files\Android\jdk\microsoft_dist_openjdk_1.8.0.25
+  NDK_ROOT=D:\\Microsoft\AndroidNDK64\android-ndk-r16b
+  pch.h
+  android_native_app_glue.c
+  main.cpp
+  Android1.NativeActivity.vcxproj -> D:\GitHub_Projects\Новая папка\Android1\ARM\Debug\libAndroid1.so

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <SOLibPaths />
+  <AndroidLibPaths />
+  <OObjPaths />
+  <Configuration />
+  <Platform />
+  <AndroidArchitecture />
+  <!--links to other recipe files-->
+  <RecipeFiles>D:\GitHub_Projects\Новая папка\Android1\ARM\Debug\libAndroid1.so.recipe</RecipeFiles>
+</project>

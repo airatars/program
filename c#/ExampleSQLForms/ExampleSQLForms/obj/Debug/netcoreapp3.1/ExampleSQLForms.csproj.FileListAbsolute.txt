@@ -1,0 +1,16 @@
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.exe
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.deps.json
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.runtimeconfig.json
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.runtimeconfig.dev.json
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.dll
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\bin\Debug\netcoreapp3.1\ExampleSQLForms.pdb
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.csprojAssemblyReference.cache
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.csproj.GenerateResource.cache
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.AssemblyInfoInputs.cache
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.AssemblyInfo.cs
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.csproj.CoreCompileInputs.cache
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.dll
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.pdb
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.genruntimeconfig.cache
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.LoginForm.resources
+D:\Программы\C#\ExampleSQLForms\ExampleSQLForms\obj\Debug\netcoreapp3.1\ExampleSQLForms.Properties.Resources.resources

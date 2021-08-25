@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+header {
+    min-height: 8vh;
+    padding-left: 5vh;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    background: #04a4f5;
+}
+
+h2 {
+    margin-right: 2vh;
+}
+
+.tasks {
+    color: #04a4f5
+    ;
+}
