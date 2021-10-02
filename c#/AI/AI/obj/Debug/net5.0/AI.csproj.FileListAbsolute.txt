@@ -1,0 +1,16 @@
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.exe
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.deps.json
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.runtimeconfig.json
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.runtimeconfig.dev.json
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.dll
+D:\program\c#\AI\AI\bin\Debug\net5.0\ref\AI.dll
+D:\program\c#\AI\AI\bin\Debug\net5.0\AI.pdb
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.csproj.AssemblyReference.cache
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.AssemblyInfoInputs.cache
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.AssemblyInfo.cs
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.csproj.CoreCompileInputs.cache
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.dll
+D:\program\c#\AI\AI\obj\Debug\net5.0\ref\AI.dll
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.pdb
+D:\program\c#\AI\AI\obj\Debug\net5.0\AI.genruntimeconfig.cache

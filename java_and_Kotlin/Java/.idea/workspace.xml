@@ -1,30 +1,790 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="912c022c-b2ed-4e75-b6dd-a13773301f72" name="Default Changelist" comment="" />
+    <list default="true" id="1db52422-16a3-4d8b-9cc8-ca8cc270d5e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/.vs/AI/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/.vs/AI/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/AI.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/AI.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/bin/Debug/net5.0/ref/AI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/AI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/AI.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/AI.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/AI.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/Debug/net5.0/ref/AI.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/AI/AI/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/FaceRec/FaceRec/obj/x86/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/.vs/WebApp/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/.vs/WebApp/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/App_Start/BundleConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/App_Start/FilterConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/App_Start/RouteConfig.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/Site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Global.asax" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Global.asax.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.intellisense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery.validate-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Scripts/modernizr-2.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Home/About.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Home/Contact.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/Web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Web.Debug.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Web.Release.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/Web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/WebApp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/WebApp.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Antlr3.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Antlr3.Runtime.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Microsoft.Web.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Helpers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Mvc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Optimization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Optimization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.Deployment.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.Deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/System.Web.WebPages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/WebApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/WebApp.dll.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/WebApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/WebGrease.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.Managed.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Globalization.Calendars.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/roslyn/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.Helpers.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.Mvc.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.Optimization.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.WebPages.Deployment.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.WebPages.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/bin/ru/System.Web.WebPages.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Debug/WebApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/obj/Release/WebApp.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/WebApp/packages.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Antlr.3.5.0.2/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Antlr.3.5.0.2/Antlr.3.5.0.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Antlr.3.5.0.2/lib/Antlr3.Runtime.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/Content/Web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/Microsoft.AspNet.Mvc.5.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/ru/System.Web.Mvc.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.5.2.7/lib/net45/ru/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.ru.5.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.ru.5.2.7/Microsoft.AspNet.Mvc.ru.5.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.ru.5.2.7/lib/net45/ru/System.Web.Mvc.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Mvc.ru.5.2.7/lib/net45/ru/System.Web.Mvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/Microsoft.AspNet.Razor.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/ru/System.Web.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/ru/system.web.razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.ru.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.ru.3.2.7/Microsoft.AspNet.Razor.ru.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.ru.3.2.7/lib/net45/ru/System.Web.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Razor.ru.3.2.7/lib/net45/ru/system.web.razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.1.1.3/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.1.1.3/Microsoft.AspNet.Web.Optimization.1.1.3.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/System.Web.Optimization.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/ru/System.Web.Optimization.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.1.1.3/lib/net40/system.web.optimization.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.ru.1.1.3/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.ru.1.1.3/Microsoft.AspNet.Web.Optimization.ru.1.1.3.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.Web.Optimization.ru.1.1.3/lib/net40/ru/System.Web.Optimization.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/Microsoft.AspNet.WebPages.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/System.Web.Helpers.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/System.Web.WebPages.Deployment.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/System.Web.WebPages.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/System.Web.WebPages.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/system.web.helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/system.web.webpages.deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/system.web.webpages.razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/ru/system.web.webpages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/Microsoft.AspNet.WebPages.ru.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/System.Web.Helpers.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/System.Web.WebPages.Deployment.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/System.Web.WebPages.Razor.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/System.Web.WebPages.resources.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/system.web.helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/system.web.webpages.deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/system.web.webpages.razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.AspNet.WebPages.ru.3.2.7/lib/net45/ru/system.web.webpages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Managed.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.AppContext.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Console.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Globalization.Calendars.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.ValueTuple.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.rsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.Web.Infrastructure.1.0.0.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.Web.Infrastructure.1.0.0.0/Microsoft.Web.Infrastructure.1.0.0.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.Web.Infrastructure.1.0.0.0/lib/net40/Microsoft.Web.Infrastructure.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/Content/Scripts/modernizr-2.8.3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/Modernizr.2.8.3.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/Tools/common.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/Tools/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Modernizr.2.8.3/Tools/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/Newtonsoft.Json.12.0.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/WebGrease.1.6.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/WebGrease.1.6.0/WebGrease.1.6.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/WebGrease.1.6.0/lib/WebGrease.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/WebGrease.1.6.0/tools/WG.EXE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/bootstrap.3.4.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/content/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/bootstrap.3.4.1/contentFiles/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Tools/common.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Tools/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Tools/jquery-3.4.1.intellisense.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/Tools/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.3.4.1/jQuery.3.4.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.Validation.1.17.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.Validation.1.17.0/Content/Scripts/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../c#/WebApp/packages/jQuery.Validation.1.17.0/jQuery.Validation.1.17.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../python/Yandex/SpeechKit/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/ExampleSQLForms/.vs/ExampleSQLForms/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/ExampleSQLForms/.vs/ExampleSQLForms/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/ExampleSQLForms/ExampleSQLForms/obj/Debug/netcoreapp3.1/ExampleSQLForms.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/ExampleSQLForms/ExampleSQLForms/obj/Debug/netcoreapp3.1/ExampleSQLForms.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/.vs/New/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/.vs/New/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/bin/Debug/net5.0/New.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/bin/Debug/net5.0/New.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/bin/Debug/net5.0/New.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/bin/Debug/net5.0/New.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/New/New/obj/Debug/net5.0/New.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../c#/kazyua/пример" beforeDir="false" afterPath="$PROJECT_DIR$/../../c#/kazyua/пример" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/kotlin_jps_plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/tasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/libraries/kotlin_jps_plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/libraries/tasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/IdeaIC2020.3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/codestyles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/disabled_update.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/event-log-metadata/fus/events-scheme.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/idea64.exe.vmoptions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/actionSummary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/features.usage.statistics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/filetypes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/ide-features-trainer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/jdk.table.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/path.macros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/pluginAdvertiser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/recentProjects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/updates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/usage.statistics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/window.state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/options/wsl.distributions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/out/production/IdeaIC2020.3/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/bin/linux/LLDBFrontend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/bin/macos/LLDBFrontend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/bin/windows/LLDBFrontend.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kapt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kapt.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlin-dce-js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlin-dce-js.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlin.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc-js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc-js.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc-jvm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc-jvm.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/bin/kotlinc.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/build.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/allopen-compiler-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/android-extensions-compiler.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/android-extensions-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/js.engines.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/jvm-abi-gen.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-cli.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotation-processing.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotations-android.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotations-jvm-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-annotations-jvm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-compiler.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-coroutines-experimental-compat-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-coroutines-experimental-compat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-daemon-client.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-daemon.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-imports-dumper-compiler-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-main-kts.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-preloader.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-reflect-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-runner.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-script-runtime-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-script-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-scripting-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler-impl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-scripting-compiler.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-scripting-js.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-scripting-jvm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-js.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-js-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-js.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-junit-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-junit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-junit5-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-junit5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-testng-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test-testng.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlin-test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlinx-coroutines-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/kotlinx-serialization-compiler-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/mutability-annotations-compat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/noarg-compiler-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/parcelize-compiler.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/parcelize-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/sam-with-receiver-compiler-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/lib/trove4j.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/COPYRIGHT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/NOTICE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/aosp_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/args4j_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/asm_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/boost_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/closure-compiler_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/dart_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/fastutil_licence" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/gradle_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/guava_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/gwt_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/jquery_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/jshashtable_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/karma-teamcity-reporter_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/karma_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/lodash_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/maven_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/mocha-teamcity-reporter_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/pcollections_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/prototype_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/qunit_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/rhino_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/scala_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/teamcity-service-messages_LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/dagger_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_distribution_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/eclipse_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/findbugs_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/lombok_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/rxjava_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/testdata/spring_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/trove_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/kotlinc/license/third_party/trove_readme_license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/allopen-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/android-extensions-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/completion-ranking-kotlin-0.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/javaslang-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/javaslang-match-2.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/javax.inject-1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/jps/kotlin-jps-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-android-extensions-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-allopen.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-annotation-based-compiler-support.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-kapt.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-kotlinx-serialization.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-noarg.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-sam-with-receiver.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-compiler-plugins-scripting.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-coroutines-experimental-compat.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-eval4j.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-formatter.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-frontend-independent.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-git.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-gradle-gradle-idea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-gradle-gradle-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-gradle-gradle-tooling.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-gradle-statistics-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-idea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-j2k-idea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-j2k-new.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-j2k-old.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-j2k-services.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jps-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm-debugger-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm-debugger-coroutines.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm-debugger-evaluation.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm-debugger-sequence.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm-debugger-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-jvm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-line-indent-provider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-maven.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-parcelize.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-plugin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-project-wizard-cli.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-project-wizard-core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-project-wizard-idea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-reflect.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-repl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-script-runtime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-script-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-scripting-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-scripting-compiler-impl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-scripting-ide-services.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-scripting-jvm.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-scripting.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-stdlib-jdk7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-stdlib-jdk8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-stdlib.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-uast-kotlin-idea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-uast-kotlin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-ultimate-common-cidr-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-ultimate-common-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-ultimate-common-noncidr-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-ultimate-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlin-ultimate.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlinx-collections-immutable-jvm-0.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlinx-coroutines-core-1.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlinx-coroutines-jdk8-1.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/kotlinx-serialization-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/markdown-0.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/noarg-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/parcelize-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/Kotlin/lib/sam-with-receiver-compiler-plugin-for-ide.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/brokenPlugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/brokenPlugins.json.etag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/meta/106608.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/meta/106608.json.etag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/meta/106961.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/meta/106961.json.etag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/pluginsXMLIds.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/plugins/pluginsXMLIds.json.etag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/port" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/port.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/scratches/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/tasks/First.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/tasks/First.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IdeaIC2020.3/workspace/1mvdbJZnoJUWrCXQuC2jQvMuEir.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java for AndSt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java for AndSt/.idea/Java for AndSt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java for AndSt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java for AndSt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java for AndSt/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_and_Kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react/my_app" beforeDir="false" afterPath="$PROJECT_DIR$/../../react/my_app" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1o17C64AWBF4zrIBHyufEgRid1x" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1y1ybyyPSf1dCYCw9PkqoCdUQMn" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="912c022c-b2ed-4e75-b6dd-a13773301f72" name="Default Changelist" comment="" />
-      <created>1612442111765</created>
+      <changelist id="1db52422-16a3-4d8b-9cc8-ca8cc270d5e0" name="Changes" comment="" />
+      <created>1631433464425</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612442111765</updated>
+      <updated>1631433464425</updated>
     </task>
     <servers />
   </component>

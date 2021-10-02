@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program{
     static void Main() {
@@ -48,5 +49,17 @@ class Program{
             }
         }
         Console.WriteLine(f);
+
+        Console.WriteLine("--------------------");
+
+        var names = new List<string> { "Anny", "Johan" };
+        names.Add("Masha");
+        names.Remove("Anny");
+        names.Sort();
+        foreach(var name in names)
+        {
+            Console.WriteLine($"Hello {name}");
+        }
+        Console.WriteLine($"{ names.Count }");
     }
 }
