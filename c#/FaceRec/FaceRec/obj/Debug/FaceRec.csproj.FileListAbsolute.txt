@@ -1,0 +1,9 @@
+D:\program\c#\FaceRec\FaceRec\bin\Debug\FaceRec.exe.config
+D:\program\c#\FaceRec\FaceRec\bin\Debug\FaceRec.exe
+D:\program\c#\FaceRec\FaceRec\bin\Debug\FaceRec.pdb
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.AssemblyReference.cache
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.Properties.Resources.resources
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.GenerateResource.cache
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.CoreCompileInputs.cache
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.exe
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.pdb

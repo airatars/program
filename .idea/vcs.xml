@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flutter_SDK/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/c#/kazyua/пример" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitHub_projects/New" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java_and_Kotlin/SimpleNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react/my_app" vcs="Git" />
+  </component>
+</project>

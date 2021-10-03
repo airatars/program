@@ -1,0 +1,7 @@
+D:\program\c#\MusicApp\MusicApp\bin\Debug\MusicApp.exe.config
+D:\program\c#\MusicApp\MusicApp\bin\Debug\MusicApp.exe
+D:\program\c#\MusicApp\MusicApp\bin\Debug\MusicApp.pdb
+D:\program\c#\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.AssemblyReference.cache
+D:\program\c#\MusicApp\MusicApp\obj\Debug\MusicApp.csproj.CoreCompileInputs.cache
+D:\program\c#\MusicApp\MusicApp\obj\Debug\MusicApp.exe
+D:\program\c#\MusicApp\MusicApp\obj\Debug\MusicApp.pdb

@@ -1,0 +1,14 @@
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.csproj.AssemblyReference.cache
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.Form1.resources
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.Properties.Resources.resources
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.csproj.GenerateResource.cache
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.csproj.CoreCompileInputs.cache
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\haarcascade_frontalface_alt_tree.xml
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\FaceRec.exe.config
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\FaceRec.exe
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\FaceRec.pdb
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\program\c#\FaceRec\FaceRec\bin\x86\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.csproj.CopyComplete
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.exe
+D:\program\c#\FaceRec\FaceRec\obj\x86\Debug\FaceRec.pdb
