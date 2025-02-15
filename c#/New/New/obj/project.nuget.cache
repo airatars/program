@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bBFOSRdP3HYdZqGFZyB/19ge1lv41SIOaNpQ08US4/1FLty0oUatmJQW97aTJpGOuwGFzPWH5kW9eURbcI6B9Q==",
+  "dgSpecHash": "oE2Bel1AgXw=",
   "success": true,
   "projectFilePath": "D:\\program\\c#\\New\\New\\New.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\lilia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

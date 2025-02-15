@@ -7,3 +7,8 @@ D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.GenerateResource.cache
 D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.CoreCompileInputs.cache
 D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.exe
 D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.pdb
+D:\program\c#\FaceRec\FaceRec\bin\Debug\haarcascade_frontalface_alt_tree.xml
+D:\program\c#\FaceRec\FaceRec\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\program\c#\FaceRec\FaceRec\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.Form1.resources
+D:\program\c#\FaceRec\FaceRec\obj\Debug\FaceRec.csproj.Up2Date

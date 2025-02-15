@@ -1,0 +1,15 @@
+D:\program\c#\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.exe
+D:\program\c#\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.deps.json
+D:\program\c#\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.runtimeconfig.json
+D:\program\c#\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.dll
+D:\program\c#\ConsoleApp\ConsoleApp\bin\Release\net8.0\ConsoleApp.pdb
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.sourcelink.json
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.dll
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\refint\ConsoleApp.dll
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.pdb
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\program\c#\ConsoleApp\ConsoleApp\obj\Release\net8.0\ref\ConsoleApp.dll
